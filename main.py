@@ -1,0 +1,7 @@
+print("Веддіть перше число:")
+number = float(input())
+print("Веддіть друге число:")
+number_two = float(input())
+print("Веддіть третє число:")
+number_three = float(input())
+print(number * number_two * number_three)
